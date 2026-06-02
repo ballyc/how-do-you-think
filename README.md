@@ -2,6 +2,8 @@
 
 Mini app built on Vercel, available [here](https://how-do-you-think.vercel.app).
 
+Check out an example of input/output [here]([url](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Dummy_Brian_example.md)); tested on a fictional persona (Brian, mid-30 team leader living in NYC on his way back from work).
+
 ## What it does
 
 Input: Paste any introspective writing, journal entry, therapy transcript, or anything that reflects you.
@@ -14,7 +16,7 @@ fyi: happy to unlock if it hits the usage cap, email me at ballyc@umich.edu.
 
 I built an operating system of myself using ~10,200 minutes of longitudinal data spanning 5 years. I used it to analyze my linguistic patterns.
 
-### Here's what that looks like on dummy data (subject: 'Edmond', 34yo male):
+### Here's what that looks like on dummy data (subject: 'Brian', 34yo male):
 
 A linguistic-pattern analysis — markers per 10,000 words, five years.
 
