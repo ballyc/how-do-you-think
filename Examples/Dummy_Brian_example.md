@@ -7,19 +7,22 @@
 The note below is his raw input: thumbed out one-handed on the train, half-thoughts, T9-ish autocorrect left uncorrected. Written on his way home from work — just a guy offloading his brain before he walks in the door.
 
 ---
-##  Input
+## Input
 
 > *Brian's note, exactly as written:*
-
-```text
-thurs
-EOD tmrw - send the q3 deck to marcus before 10, he leaves early follow up w priya abt the vendor thing she still hasnt replied 1:1 with dev got pushed, reschedule book the conf room for monday standup, the big one not the closet
-gym membership renews the 4th cancel or keep venmo jake for the tickets
-missed daniels thing saturday. text him something thats not just "sorry man" he def noticed ask whatdid i miss at the party. who was there
-knicks tix for the 12th?? check stubhub before they go up oil change overdue
-mom bday is the 9th DO NOT forget like last yr get the wifi extender, dead spot in the bedroom
-tell sarah no on the friday thing i already know im gonna be slammed
-```
+>
+> thurs
+> EOD tmrw - send the q3 deck to marcus before 10, he leaves early follow up w priya abt the vendor thing she still hasnt replied 1:1 with dev got pushed, reschedule book the conf room for monday standup, the big one not the closet
+>
+> gym membership renews the 4th cancel or keep venmo jake for the tickets
+>
+> missed daniels thing saturday. text him something thats not just "sorry man" he def noticed ask whatdid i miss at the party. who was there
+>
+> knicks tix for the 12th?? check stubhub before they go up oil change overdue
+>
+> mom bday is the 9th DO NOT forget like last yr get the wifi extender, dead spot in the bedroom
+>
+> tell sarah no on the friday thing i already know im gonna be slammed
 
 ---
 
