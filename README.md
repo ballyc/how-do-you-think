@@ -2,11 +2,9 @@
 
 Mini app built on Vercel, available [here](https://how-do-you-think.vercel.app).
 
-Check out an example of input/output [here](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Dummy_Brian_example.md); tested on a fictional persona (Brian, mid-30 team leader living in NYC on his way back from work).
-
 ## What it does
 
-Input an introspective note, returns insight on your thinking patterns. 
+**Input** an introspective note, **returns** insight on your thinking patterns. 
 
 From simple prompt (yet engineered by ~170 psycho-analytics professional data as input).
 
@@ -37,6 +35,9 @@ Produce four short sections, each titled exactly:
 -How they learn
 
 Each section: 2–4 short paragraphs of plain prose. No bullet lists. No headers inside sections. Be specific, be structural, be honest. If two sections would say the same thing, collapse them and note the convergence.
+
+### Examples
+Check out an example of input/output [here](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Dummy_Brian_example.md); tested on a fictional persona (Brian, mid-30 team leader living in NYC on his way back from work).
 
 End with a single short closing paragraph titled "## Substrate" — one observation about the deeper architecture under all four, IF you see one. If you don't, skip it.
 
