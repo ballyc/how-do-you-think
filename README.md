@@ -6,7 +6,7 @@ Mini app built on Vercel, available [here](https://how-do-you-think.vercel.app).
 
 **Input** an introspective note, **returns** insight on your thinking patterns. 
 
-From simple prompt (yet engineered by ~170 psycho-analytics professional data as input).
+From simple prompt (derived from string of ~170 psycho-analytics professional data as input).
 
 Uses claude-opus-4-5 (2026)
 
