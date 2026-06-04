@@ -27,9 +27,13 @@ Method:
 
 Output format:
 Produce four short sections, each titled exactly:
+
 -How they think
+
 -How they reason
+
 -How they discover
+
 -How they learn
 
 Each section: 2–4 short paragraphs of plain prose. No bullet lists. No headers inside sections. Be specific, be structural, be honest. If two sections would say the same thing, collapse them and note the convergence.
