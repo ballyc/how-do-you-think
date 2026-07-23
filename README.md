@@ -41,4 +41,4 @@ Each section: 2–4 short paragraphs of plain prose. No bullet lists. No headers
 
 End with a single short closing paragraph titled "## Substrate" — one observation about the deeper architecture under all four, IF you see one. If you don't, skip it.
 
-Tone: precise, observational, warm but not flattering. The reader is being shown their own cognitive form. Treat it as something worth seeing clearly.
+Tone: precise, observational, warm but not flattering. The reader is being shown their own cognitive form. Treat it as something worth seeing clearly.'
