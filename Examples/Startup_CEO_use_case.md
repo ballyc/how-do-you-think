@@ -1,4 +1,4 @@
-# Example: "Brian" (dummy data)
+# Example: "Brian", CEO Serie A (dummy data)
 
 *What the Vercel app looks like in action using a fictional persona.*
 
@@ -12,12 +12,12 @@ Brian recorded the following voice memo (input) in an Uber home after staying la
 
 ## Output
 
-Highlight:
+#### Highlight:
 
 Underneath all of this is a specific engine: you learn by making your own behavior visible to yourself, then reasoning about it as if it were a system you inherited rather than one you chose. The shift from "I keep joining these calls" to "what does it mean that the company is structured so I join these calls" is the move that lets you see clearly. You become, briefly, an analyst of your own organization — and that analytical distance is where your hardest thinking happens.
 
 
-How you may think
+#### How you may think
 
 
 You think by holding multiple interpretations of the same situation simultaneously, then testing them against each other until one wins or you notice they're all partially true. The TransFleet/Pioneer passage is a clear example: you move from "Daniel should have asked" to "but this case is different" to "I never explained the rule" to "maybe there isn't a rule" to "which means the company cannot operate without me" — and then you immediately check that conclusion against counterevidence. This is not rambling. It's a structured move: assert, qualify, escalate, test.
@@ -26,7 +26,7 @@ You also think in systems more than in moments. When you describe your intervent
 
 There's a signature move in your thinking: the self-interrupting correction. "No, that's too dramatic." "That sounds insane. Or maybe not insane, just not something founders say out loud." These aren't hedges — they're real-time calibrations. You're monitoring your own claims for exaggeration or self-deception and adjusting mid-thought.
 
-How you may reason
+#### How you may reason
 
 
 Your reasoning depends heavily on counterexamples. When you make a claim — "nobody has enough context" — you immediately reach for a case that breaks it: "Elena is the obvious counterexample." This gives your thinking a characteristic shape: generalization, exception, revised generalization. You don't seem to trust a pattern until it survives contact with a case that could disprove it.
@@ -35,7 +35,7 @@ You also reason through opposition. "We need better people" vs. "I need to becom
 
 One structural note: you distinguish sharply between being technically correct and being *actually true*. The board deck was "technically correct but not actually true." This suggests you reason in at least two registers — one about accuracy, one about meaning — and you don't let the first substitute for the second.
 
-How you may discover
+#### How you may discover
 
 
 You discover by accumulating observations until they suddenly cohere into a sentence you hadn't planned to say. The key line — "I don't evaluate the accumulated effect of forty useful interventions" — reads like a discovery happening in real time. It arrives not through deduction but through enough examples piling up that the structure underneath becomes visible.
@@ -44,7 +44,7 @@ Your discoveries often have a confessional quality: "That one hurt a little." "T
 
 You also discover through thought experiments. "What would actually break if I disappeared for a week?" You answer your own question seriously, case by case, and then notice what the combined answer reveals about your real attachment. The discovery isn't in any single case — it's in the pattern of all of them being fine.
 
-How you may learn
+#### How you may learn
 
 
 You learn by catching yourself in contradictions — not logical contradictions, but behavioral ones. "I tell them to own things, but I remain available for every decision." You list four of these in a row, and the learning seems to happen not in any one of them but in seeing them stacked. The structure of your own behavior becomes visible through repetition.
