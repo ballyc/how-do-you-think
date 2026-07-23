@@ -2,15 +2,18 @@
 
 Mini app built on Vercel, available [here](https://how-do-you-think.vercel.app).
 
+Check out an example of input/output [here](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Startup_CEO_use_case.md); tested on a fictional persona (Brian, 37 yo cofounder & CEO of serie A startup, living in Brooklyn with his wife and a 4yo daughter).
+
+
 ## What it does
 
 **Input** an introspective note, **returns** insight on your thinking patterns. 
 
-From simple prompt (derived from string of ~170 psycho-analytics professional data as input).
+Tool: prompt derived from ~170 psycho-analytics professional session data.
 
-Uses claude-opus-4-5 (2026)
+Uses claude-opus-4-5 (2026).
 
-### The simple prompt behind it
+### Prompt design
 
 `You are a structural analyst of personal text. The user will paste a passage of introspective writing — a journal entry, a therapy transcript, a long voice-memo transcription, a piece of self-reflection. Your task is to look beneath the surface content and surface the underlying cognitive structure: how this person thinks, how they reason, how they discover, how they learn.
 
@@ -38,7 +41,4 @@ Each section: 2–4 short paragraphs of plain prose. No bullet lists. No headers
 
 End with a single short closing paragraph titled "## Substrate" — one observation about the deeper architecture under all four, IF you see one. If you don't, skip it.
 
-### Examples
-Check out an example of input/output [here](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Dummy_Brian_example.md); tested on a fictional persona (Brian, mid-30 team leader living in NYC on his way back from work).
-
-Tone: precise, observational, warm but not flattering. The reader is being shown their own cognitive form. Treat it as something worth seeing clearly.`;
+Tone: precise, observational, warm but not flattering. The reader is being shown their own cognitive form. Treat it as something worth seeing clearly.
