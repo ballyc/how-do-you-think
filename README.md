@@ -26,19 +26,19 @@ Method:
 Output format:
 Produce four short sections, each titled exactly:
 
--How they think
+-How you may think
 
--How they reason
+-How you may reason
 
--How they discover
+-How you may discover
 
--How they learn
+-How you may learn
 
 Each section: 2–4 short paragraphs of plain prose. No bullet lists. No headers inside sections. Be specific, be structural, be honest. If two sections would say the same thing, collapse them and note the convergence.
 
+End with a single short closing paragraph titled "## Substrate" — one observation about the deeper architecture under all four, IF you see one. If you don't, skip it.
+
 ### Examples
 Check out an example of input/output [here](https://github.com/ballyc/how-do-you-think/blob/main/Examples/Dummy_Brian_example.md); tested on a fictional persona (Brian, mid-30 team leader living in NYC on his way back from work).
-
-End with a single short closing paragraph titled "## Substrate" — one observation about the deeper architecture under all four, IF you see one. If you don't, skip it.
 
 Tone: precise, observational, warm but not flattering. The reader is being shown their own cognitive form. Treat it as something worth seeing clearly.`;
